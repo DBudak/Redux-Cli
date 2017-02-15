@@ -1,6 +1,6 @@
 This is a ready-to-use React Redux cli.
 
-It has the base of what every sizable Redux app needs: React, Thunk Middleware, Logging and store enchancers and Routing installed.
+It has the base of what every sizable Redux app needs: React, Thunk Middleware, Logging, Store Enchancers and Routing installed.
 
 This cli follows the standart file structure of Redux application.
 
