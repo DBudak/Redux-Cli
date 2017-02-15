@@ -1,5 +1,11 @@
-This project is designed using my own REDUX-cli.
+This is a ready-to-use React Redux cli.
 
-The sole purpose of this project is to showcase the use of Redux, Routing, proper file structure and async actions in React REDUX.
+It has the base of what every sizable Redux app needs: React, Thunk Middleware, Logging and store enchancers and Routing installed.
 
-Use it as a reference/example for adding those functions to your project.
+This cli follows the standart file structure of Redux application.
+
+Its main purpose is to save time when creating new app, using the create-react-app.
+
+To use this cli:
+
+git clone https://github.com/DBudak/Redux-Cli.git
